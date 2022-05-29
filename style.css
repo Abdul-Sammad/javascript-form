@@ -1,0 +1,33 @@
+fieldset {
+    
+    border: none;
+    padding: 10px;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+label{
+    font-size: x-large;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    
+}
+input{
+    font-size: x-large;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+button{
+    border: none;
+    color: burlywood;
+    font-size: larger;
+    background-color: black;
+    
+    height: 50%;
+    width: 80px;
+}
